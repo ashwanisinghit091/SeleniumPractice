@@ -20,6 +20,8 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 public class Assignment1 {
 
 	public static void main(String[] args) throws InterruptedException {
+		
+		System.out.println("yup");
 
 		ChromeOptions options = new ChromeOptions();
 
