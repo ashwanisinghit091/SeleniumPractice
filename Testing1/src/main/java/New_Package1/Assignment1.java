@@ -20,6 +20,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 public class Assignment1 {
 
 	public static void main(String[] args) throws InterruptedException {
+		System.out.println("happy");
 		
 		System.out.println("uptodate");
 		System.out.println("second update");
