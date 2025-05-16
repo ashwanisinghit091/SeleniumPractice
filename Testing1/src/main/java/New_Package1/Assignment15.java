@@ -21,7 +21,7 @@ public class Assignment15 {
 	public static void main(String[] args) throws IOException {
 
 		WebDriverManager.chromedriver().setup();
-System.out.println("finally on develop for x");
+
 		WebDriver driver = new ChromeDriver();
 		driver.get("https://rahulshettyacademy.com/angularpractice/");
 		driver.manage().window().maximize();

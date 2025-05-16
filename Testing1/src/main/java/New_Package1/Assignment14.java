@@ -37,6 +37,7 @@ WebDriverManager.chromedriver().setup();
 		System.out.println(
 				driver.findElement(with(By.tagName("label")).toRightOf(radio)).getText());
 	
+	
 	}
 	
 	
