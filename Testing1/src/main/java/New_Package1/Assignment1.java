@@ -21,9 +21,8 @@ public class Assignment1 {
 
 	public static void main(String[] args) throws InterruptedException {
 		
-		System.out.println("gitstuff1");
-		System.out.println("gitstuff2");
-		System.out.println("gitstuff3");
+
+
 
 		ChromeOptions options = new ChromeOptions();
 
