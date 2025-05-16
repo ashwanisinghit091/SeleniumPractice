@@ -36,6 +36,7 @@ WebDriverManager.chromedriver().setup();
 		
 		System.out.println(
 				driver.findElement(with(By.tagName("label")).toRightOf(radio)).getText());
+		System.err.println("me stuuf1 se hu develo p k liye");
 	
 	}
 	
