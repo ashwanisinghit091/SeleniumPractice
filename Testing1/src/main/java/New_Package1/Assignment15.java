@@ -31,6 +31,7 @@ public class Assignment15 {
 
 		Iterator<String> it = window_handles.iterator();
 
+		System.out.println("first update");
 		String parent = it.next();
 		String child = it.next();
 		driver.switchTo().window(child);
